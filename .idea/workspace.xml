@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdb547e7-c1b1-4493-b92e-d66c602aa0f0" name="Changes" comment="">
+    <list default="true" id="cdb547e7-c1b1-4493-b92e-d66c602aa0f0" name="Changes" comment="Criação de pastas">
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/Entities/User.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/Users/UserTests.java" afterDir="false" />
@@ -62,6 +62,14 @@
       <option name="presentableId" value="Default" />
       <updated>1671743221647</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criação de pastas">
+      <created>1671757923700</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1671757923700</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -74,5 +82,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação de pastas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de pastas" />
   </component>
 </project>
